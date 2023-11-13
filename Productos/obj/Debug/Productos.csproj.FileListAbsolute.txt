@@ -1,0 +1,18 @@
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\bin\Debug\Productos.exe.config
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\bin\Debug\Productos.exe
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\bin\Debug\Productos.pdb
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.frmClientes.resources
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.Cache
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.exe
+c:\users\sena\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.pdb
+C:\Users\USER\Downloads\Productos\Productos\bin\Debug\Productos.exe.config
+C:\Users\USER\Downloads\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\USER\Downloads\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.frmClientes.resources
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.exe
+C:\Users\USER\Downloads\Productos\Productos\obj\Debug\Productos.pdb
